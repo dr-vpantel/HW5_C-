@@ -2,6 +2,8 @@
 // Найдите разницу между максимальным и минимальным элементов массива.
 // [3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
 
+using System.Reflection.Emit;
+
 double[] CreateArrayRndDouble(int size, int min, int max)
 {
     double[] arr = new double[size];
