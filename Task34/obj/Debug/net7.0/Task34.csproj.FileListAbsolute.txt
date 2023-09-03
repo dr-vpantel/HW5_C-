@@ -1,0 +1,15 @@
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/bin/Debug/net7.0/Task34
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/bin/Debug/net7.0/Task34.deps.json
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/bin/Debug/net7.0/Task34.runtimeconfig.json
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/bin/Debug/net7.0/Task34.dll
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/bin/Debug/net7.0/Task34.pdb
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/Task34.csproj.AssemblyReference.cache
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/Task34.AssemblyInfoInputs.cache
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/Task34.AssemblyInfo.cs
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/Task34.csproj.CoreCompileInputs.cache
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/Task34.dll
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/refint/Task34.dll
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/Task34.pdb
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/Task34.genruntimeconfig.cache
+/Users/vladimir/Desktop/Geekbrains/С#/HW5_C#/Task34/obj/Debug/net7.0/ref/Task34.dll
